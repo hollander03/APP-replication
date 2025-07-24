@@ -1,6 +1,6 @@
 # Apple Product Price Analyses and Wayback Machine Scraping
 
-This is a collaborative effort between Rick Walker, Hylton Hollander, and Dawie van Lill to use Apple Product Prices to evaluate some of the puzzles and dynamics pertaining to the law of one price (LOP) and real exchange rates (RER). Specifically, we construct two new datasets consisting of Apple product prices (APPs) - based on scraped data on iPods, iPads and iPhones - and provide new insights into the LOP and deviations from it. The performance, findings and estimates derived by using these datasets are also compared to other (more researched) relative price measures such as the Big Mac index as well as broader price indices used in PPP analyses, e.g. CPI, PPI or WPI. 
+This is a collaborative effort between Rick Walker, Gideon du Rand, Hylton Hollander, and Dawie van Lill to use Apple Product Prices to evaluate some of the puzzles and dynamics pertaining to the law of one price (LOP) and real exchange rates (RER). Specifically, we construct two new datasets consisting of Apple product prices (APPs) - based on scraped data on iPods, iPads and iPhones - and provide new insights into the LOP and deviations from it. The performance, findings and estimates derived by using these datasets are also compared to other (more researched) relative price measures such as the Big Mac index as well as broader price indices used in PPP analyses, e.g. CPI, PPI or WPI. 
 
 ### `lopAPP_rep`
 
