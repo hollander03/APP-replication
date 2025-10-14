@@ -152,9 +152,8 @@ for year in years:
     # print_hausman_results(year, hausman_results)
 
 
-# This is where you need to provide a breakdown of the different regressions that you are doing.
-
+# See paper for a breakdown of the different regressions done.
 
 # Big Mac Price Basket Regression Results
 
-# h-period analysis should maybe be in a separate document
+# h-period analysis in a separate document
